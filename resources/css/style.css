@@ -14,3 +14,38 @@ html {
     text-decoration: underline;
     text-align: center;
 }
+
+.video_container {
+    display: flex;
+    width: 100%;
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+    justify-content: space-around;
+    align-items: center;
+}
+.title {
+    color: white;
+    font-size: 42px;
+    text-align: center;
+}
+
+.personal_guide_content {
+    color: gray;
+    font-size: 21px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer {
+    color: gray;
+    text-align: right;
+}
