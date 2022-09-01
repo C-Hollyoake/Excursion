@@ -1,0 +1,16 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+.main_title {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.download_link {
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+    text-align: center;
+}
